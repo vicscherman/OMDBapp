@@ -77,7 +77,7 @@ function displayMovies(userInput) {
     //API key and query URL
     const apiKey = "b3284248";
 
-    queryUrl = "http://www.omdbapi.com/?apikey=" + (apiKey) + "&s=" + (userInput)
+    queryUrl = "https://www.omdbapi.com/?apikey=" + (apiKey) + "&s=" + (userInput)
 
 
 
